@@ -1,9 +1,7 @@
 # Curso Práctico de JavaScript  :yellow_heart: :hammer:
 
 Aprender un lenguaje de programación requiere de práctica constante, con JavaScript puedes crear proyectos increíbles que logren resolver problemas de la vida real por medio de aplicaciones web. En este curso aprenderás cómo usar JavaScript para resolver problemas reales y pondrás en práctica todos tus conocimientos de JavaScript
-    
-    https://luis-ariza.notion.site/ECMAScript-Versiones-de-JavasCript-be6daa0ae0eb406f990238a07d677a5a
-    
+
 
 ## Objetivos :rocket:
  
